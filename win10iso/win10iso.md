@@ -1,11 +1,11 @@
 # Preparing Windows 10 for a Virtual Machine
-The purpose of this document is to guide the user through the acquisition of the Windows 10 ISO.
+The purpose of this document is to guide the user through the acquisition of the Windows 10 *.iso* file.
 
 ## Downloading the installer 
 
 Visit the Windows page [here](https://www.microsoft.com/en-us/software-download/windows10)
 
-Click **download now** as illistruated in the image below  
+Click **download now** as illustrated in the image below  
 
 ![img](static/download.png)
 
@@ -25,7 +25,7 @@ Prompt: *What do you want to do?* Select **Create Installation Media** and click
 
 ![img](static/media_prompt.png)
 
-Prompt: *Select language, architecture, and eddition* make sure **Use the recommended options for this PC** box is selected and click **Next**
+Prompt: *Select language, architecture, and edition* make sure **Use the recommended options for this PC** box is selected and click **Next**
 
 ![img](static/language_prompt.png)
 
