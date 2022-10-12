@@ -9,6 +9,10 @@ Click **download now** as illustrated in the image below
 
 ![img](static/download.png)
 
+After clicking download, you may be prompted to select a location to save the creation tool. Select save to continue.  
+
+![img](static/save_prompt.png)
+
 Once the installer wizard has completed downloading, *it shouldn't take long*, double click the file in your downloads bar at the bottom of your browser.  
 
 ![img](static/exe_access.png)
