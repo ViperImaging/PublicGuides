@@ -5,9 +5,9 @@ If you want to follow this guide without images then check out the [abridged gui
 
 ## Downloading the installer 
 
-Visit the Windows page [here](https://www.microsoft.com/en-us/software-download/windows10)
+Visit the Windows page [here](https://www.microsoft.com/en-us/software-download/windows10).
 
-Click **download now** as illustrated in the image below  
+Click **download now** as illustrated in the image below.  
 
 ![img](static/download.png)
 
@@ -23,7 +23,7 @@ Note: If it does not appear here you can access it though the downloads folder.
 
 ## Navigating the Windows Installer
 
-Prompt: *Applicable notices and license terms* click **Accept**  
+Prompt: *Applicable notices and license terms* click **Accept**.  
 
 ![img](static/license_prompt.png)
 
@@ -31,17 +31,17 @@ Prompt: *What do you want to do?* Select **Create Installation Media** and click
 
 ![img](static/media_prompt.png)
 
-Prompt: *Select language, architecture, and edition* make sure **Use the recommended options for this PC** box is selected and click **Next**
+Prompt: *Select language, architecture, and edition* make sure **Use the recommended options for this PC** box is selected and click **Next**.
 
 ![img](static/language_prompt.png)
 
-Prompt *Choose which media to use* select **ISO File** and click **Next**
+Prompt *Choose which media to use* select **ISO File** and click **Next**.
 
 ![img](static/iso_prompt.png)
 
-You will be prompted to save the *.iso* file to a directory, the default option is *C:\Users\YOUR_USER_NAME\Documents\Windows.iso* You may change this location if it suits your needs. After you have selected your directory the install will download the file automatically.
+You will be prompted to save the *.iso* file to a directory, the default option is *C:\Users\YOUR_USER_NAME\Documents\Windows.iso* You may change this location if it suits your needs. After you have selected your directory, the installer will download the file automatically.
 
-Once the file has completed downloading you may exit the installer by selecting **Finish**
+Once the file has completed downloading you may exit the installer by selecting **Finish**.
 
 ![img](static/finish.png)
 
