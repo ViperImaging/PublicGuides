@@ -23,7 +23,7 @@ Note: If it does not appear here you can access it though the downloads folder.
 
 4. Prompt *Choose which media to use* select **ISO File** and click **Next**.
 
-5. You will be prompted to save the *.iso* file to a directory, the default option is *C:\Users\YOUR_USER_NAME\Documents\Windows.iso* You may change this location if it suits your needs. After you have selected your directory, the install will download the file automatically.
+5. You will be prompted to save the *.iso* file to a directory, the default option is *C:\Users\YOUR_USER_NAME\Documents\Windows.iso* You may change this location if it suits your needs. After you have selected your directory, the installer will download the file automatically.
 
 6. Once the file has completed downloading you may exit the installer by selecting **Finish**.
 
