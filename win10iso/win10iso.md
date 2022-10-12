@@ -1,7 +1,7 @@
 # Preparing Windows 10 for a Virtual Machine
 The purpose of this document is to guide the user through the acquisition of the Windows 10 *.iso* file.
 
-If you want to follow this guide without images then check out the [abridged guide](win10iso.md).
+If you want to follow this guide without images then check out the [abridged guide](win10iso_abridged.md).
 
 ## Downloading the installer 
 
