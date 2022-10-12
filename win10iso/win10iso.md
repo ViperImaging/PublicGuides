@@ -1,6 +1,8 @@
 # Preparing Windows 10 for a Virtual Machine
 The purpose of this document is to guide the user through the acquisition of the Windows 10 *.iso* file.
 
+If you want to follow this guide without images then check out the [abridged guide](win10iso.md).
+
 ## Downloading the installer 
 
 Visit the Windows page [here](https://www.microsoft.com/en-us/software-download/windows10)
@@ -42,3 +44,4 @@ You will be prompted to save the *.iso* file to a directory, the default option 
 Once the file has completed downloading you may exit the installer by selecting **Finish**
 
 ![img](static/finish.png)
+
