@@ -10,7 +10,6 @@ The purpose of this document is to describe V1 parts which may hold consumer val
 - (2) Speakers--YDT59-8SBLH, 8 Ohm, 5 Watt
 - Audio Power Amp Gen 2, PartNo: 94V-0
 
-### Photos
 <details>
 <summary>View Pictures</summary>
   
@@ -21,7 +20,6 @@ The purpose of this document is to describe V1 parts which may hold consumer val
 ## USB Multi-port Hub
 - Tripp-Lite, 10 Port USB 2.0 Hub, ModelNo: U223-010
 
-### Photos
 <details>
 <summary>View Pictures</summary>
   
@@ -34,7 +32,6 @@ The purpose of this document is to describe V1 parts which may hold consumer val
 - Gold Finger Settings Switch
 - LED strip with six (6) lights
 
-### Photos
 <details>
 <summary>View Pictures</summary>
 
@@ -47,7 +44,6 @@ The purpose of this document is to describe V1 parts which may hold consumer val
 - GoldFinger E504630 23" LCD Touchscreen Monitor, ModelNo: GF-22H2PA11-KIPIXEL
 - TP-Link 150 Mbps USB/Wifi Adapter, ModelNo: TL-WN722N
 
-### Photos
 <details>
 <summary>View Pictures</summary>
 
