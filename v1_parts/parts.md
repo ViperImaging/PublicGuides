@@ -1,6 +1,8 @@
 # Viper V1 Parts List
 The purpose of this document is to describe V1 parts which may hold consumer value. The following accounts for one (1) unit. Miscellaneous materials and scrap metal have been omitted from this description.
 
+#### Table of Contents
+
 - [Speaker and Amplifier](#speaker-and-amplifier)
 - [USB Multi-port Hub](#usb-multi-port-hub)
 - [LED Hub and Controller](#led-hub-and-controller)
