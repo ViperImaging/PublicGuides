@@ -14,8 +14,8 @@
 2. Once you have downloaded the installer, start the installation by double clicking the *ViperVisionInstaller.exe* file.
 ![Example image: double click the exe](./img/fig-2_double_click.jpg)
 
-3. Click *Install* after agreeing to the *Terms and Conditions*.
-![Example image: accept terms, click okay](./img/fig-3_click_install.jpg)
+3. Click *Install* after agreeing to the *Terms and Conditions*.  
+![Example image: accept terms click okay](./img/fig-3_click_install.jpg)
 
 4. Once the installation is complete you will be notified of a successful install and may now run ViperVision.
 ![Example image: success](./img/fig-4_install_complete.jpg)
@@ -33,7 +33,7 @@
 4. Select the *Register Online* button.
 ![Example image: click register online](./img/fig-6_register_online.jpg)
 
-5. Paste the registration key into the *Enter New Registration Key* field and click Okay.
+5. Paste the registration key privided by ViperImaing into the *Enter New Registration Key* field and click *Okay*.
 ![Example image: click okay](./img/fig-7_online_okay_btn.jpg)
 
 6. Restart the software to update the software version for newly licensed features.
