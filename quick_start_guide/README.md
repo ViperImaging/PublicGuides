@@ -6,6 +6,8 @@
 4. [Adding a Camera](#adding-a-camera)
 
 ## Installing ViperVision
+[Table of Contents](#viper-vision-quick-start-guide)
+
 1. Before installing ViperVision, make sure your Windows system is up to date.
 ![Example image: windows update button](./img/fig-1_windows_update.jpg)
 
@@ -19,6 +21,8 @@
 ![Example image: success](./img/fig-4_install_complete.jpg)
 
 ## Online Registration
+[Table of Contents](#viper-vision-quick-start-guide)
+
 1. Note: online registration requires a network internet connection to properly work.
 
 2. You will be provided a registration key by Viper Imaging. If you do not have this key then you should refer to the [*Offline Registration*](#offline-registration) section located below. Contact Viper Imaging if you have any licensing questions.
@@ -36,6 +40,8 @@
 
 
 ## Offline Registration
+[Table of Contents](#viper-vision-quick-start-guide)
+
 1. Log in and navigate to *System Settings*, then the *About* section tab, click the *Register Offline* button.
 ![Example image: click system settings, about, register offline](./img/fig-8_register_offline.jpg)
 
@@ -52,6 +58,8 @@
 6. Restart the software to update the software version for newly licensed features.
 
 ## Adding a Camera
+[Table of Contents](#viper-vision-quick-start-guide)
+
 1. From the left sidebar menu click *Cameras*.
 ![Example image: click cameras in the sidebar](./img/fig-10_click_cameras_sidebar.jpg)
 
@@ -72,3 +80,5 @@
 
 7. After the camera is located, click *Okay* to return to ViperVision.
 ![Example image: click okay](./img/fig-16_click_okay.jpg)
+
+[Back to Top](#viper-vision-quick-start-guide)
