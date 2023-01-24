@@ -1,10 +1,13 @@
+<a name="#viper-vision-quick-start-guide"></a>
 # Viper Vision Quick Start Guide
+<a name="#table-of-contents"></a>
 #### Table of Contents
 1. [Installing ViperVision](#installing-vipervision)
 2. [Online Registration](#online-registration)
 3. [Offline Registration](#offline-registration)
 4. [Adding a Camera](#adding-a-camera)
 
+<a name="#installing-vipervision"></a>
 ## Installing ViperVision
 [Table of Contents](#viper-vision-quick-start-guide)
 
@@ -20,6 +23,7 @@
 4. Once the installation is complete you will be notified of a successful install and may now run ViperVision.
 ![Example image: success](./img/fig-4_install_complete.jpg)
 
+<a name="#online-registration"></a>
 ## Online Registration
 [Table of Contents](#viper-vision-quick-start-guide)
 
@@ -38,7 +42,7 @@
 
 6. Restart the software to update the software version for newly licensed features.
 
-
+<a name="#offline-registration"></a>
 ## Offline Registration
 [Table of Contents](#viper-vision-quick-start-guide)
 
@@ -57,6 +61,7 @@
 
 6. Restart the software to update the software version for newly licensed features.
 
+<a name="#adding-a-camera"></a>
 ## Adding a Camera
 [Table of Contents](#viper-vision-quick-start-guide)
 
