@@ -73,16 +73,6 @@ Generate a report for the specified cameras.
 **Returns:** 
 - **reportLink**: URL or path to the generated report.
 
----
-
-### `GetApplicationTheme() -> theme: string`
-
-Retrieve the current theme of the application.
-
-**Returns:** 
-- The name of the current theme.
-
-
 ### Code Examples
 
 - Fetch camera information:
