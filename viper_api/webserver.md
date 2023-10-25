@@ -1,5 +1,3 @@
-# web server 
-
 # Web Server Update
 
 We've revamped our web server and introduced the new ViperAPI! With the ViperAPI, users can seamlessly integrate the capabilities of ViperVision into their applications. This web server serves as a showcase for the ViperAPI's capabilities.
